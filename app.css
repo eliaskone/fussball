@@ -114,7 +114,8 @@ section#camp {
 }
 
 section#about {
-    background: url(soccer.jpg) no-repeat center center/cover;
+    /*https://cdn.pixabay.com/photo/2018/06/12/19/59/football-3471371_960_720.jpg*/
+    background: url('https://cdn.pixabay.com/photo/2018/06/12/19/42/football-3471307_960_720.jpg') no-repeat center center/cover;
     margin-bottom: 100px;
     margin-top: 50px;
     text-align: center;
@@ -143,7 +144,8 @@ section#contact {
     margin-top: 50px;
 }
 section#agb {
-  background: url(soccer.jpg) no-repeat center center/cover;
+  /*https://cdn.pixabay.com/photo/2018/06/12/20/17/football-3471402_960_720.jpg*/
+  background: url('https://cdn.pixabay.com/photo/2018/06/12/19/59/football-3471371_960_720.jpg') no-repeat center center/cover;
   margin-bottom: 100px;
   margin-top: 50px;
 }
